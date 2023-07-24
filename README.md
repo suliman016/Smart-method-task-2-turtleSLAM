@@ -13,5 +13,6 @@ Between all the SLAM approaches we chose Gmapping approache http://wiki.ros.org/
 After we set up our robot and mapping we can run it
 
 
-![image](https://github.com/suliman016/Smarth-method-task-2-turtleMap/assets/139249285/3ae30b5a-5126-45ca-97d7-ea93db0d7f8c) ![image](https://github.com/suliman016/Smarth-method-task-2-turtleMap/assets/139249285/093da19d-33cc-492e-92c5-d7094a35681e)
+![image](https://github.com/suliman016/Smart-method-task-2-turtleSLAM/assets/139249285/50b781f4-da47-431d-9be7-57545d41b000)
+ ![image](https://github.com/suliman016/Smarth-method-task-2-turtleMap/assets/139249285/093da19d-33cc-492e-92c5-d7094a35681e)
 
